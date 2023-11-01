@@ -16,8 +16,8 @@ All cars are detected with a green mask, whereas cars involved in crash have bee
 
 ## Example 1
 
-![Example 1](https://github.com/ShreyanshBardia/AccidentDetection/blob/master/output.gif)
+![https://drive.google.com/drive/folders/10p44ywca8K1mRUSJFYt2UXMlwJmF9nNM](https://github.com/ShreyanshBardia/AccidentDetection/blob/master/output.gif)
 
 ## Example 2
 
-![Example 2](output_1.gif)
+![https://drive.google.com/drive/folders/10p44ywca8K1mRUSJFYt2UXMlwJmF9nNM](output_1.gif)
